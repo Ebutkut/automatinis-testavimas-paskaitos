@@ -2,7 +2,7 @@
 
 namespace Calculator
 {
-    internal class Functions
+    public class Functions
     {
         public static double Division_Double(int num1, int num2)
         {
