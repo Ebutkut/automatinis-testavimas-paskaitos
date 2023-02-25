@@ -4,7 +4,7 @@ using OpenQA.Selenium;
 
 namespace SeleniumTestsWithoutPOM
 {
-    internal class SeleniuEasy
+    internal class SeleniumEasy
     {
         [Test]
         public void SimpleFormDemoSingleInputField()
